@@ -1,15 +1,15 @@
 👋 Hi, I'm Subhashree!*  
 
-🔹*Python Developer* with a passion for building innovative solutions and crafting clean, efficient code.
+🔹*Python Developer*,*Graphic Designer* and *UI/UX Designer* with a passion for building smart web applications and creating visually appealing, user-friendly designs.
 
-*💻 Skills:*  
-- Python (Django, Flask, Pandas, NumPy)  
-- Web Development (HTML, CSS, JavaScript)  
-- Version Control (Git/GitHub)  
-- Databases (MySQL)  
+*💻 Skills:*    
+- Backend Development: Python (Django, NumPy,  Pandas)
+- Frontend Technologies: HTML, CSS, JavaScript
+- Databases: PostgreSQL, MySQL
+- UI/UX Design: Figma, User Flows, Wireframing, Prototyping
+- Graphic Design: Adobe Illustrator, Adobe Photoshop
+- Version Control: Git, GitHub  
 
-*🌱 Currently Learning:* Graphic design
-*
 ✨ Fun Fact:* I love solving puzzles and exploring new tech!  
 
 📫 *Let's Connect:* https://www.linkedin.com/in/s-sahoo | subha_pydev@gmail.com | https://www.behance.net/ssahoo13
