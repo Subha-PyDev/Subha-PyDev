@@ -1,6 +1,6 @@
 👋 Hi, I'm Subhashree!*  
 
-🔹*Python Developer*,*Graphic Designer* and *UI/UX Designer* with a passion for building smart web applications and creating visually appealing, user-friendly designs.
+🔹*Python Developer*,*Graphic* and *UI/UX Designer* with a passion for building smart web applications and creating visually appealing, user-friendly designs.
 
 *💻 Skills:*    
 - Backend Development: Python (Django, NumPy,  Pandas)
