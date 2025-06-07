@@ -10,7 +10,7 @@
 - Graphic Design:  Adobe Illustrator, Adobe Photoshop
 - Version Control:  Git, GitHub  
 
-✨ Fun Fact:* I love solving puzzles and exploring new tech!  
+✨ Fun Fact: *I love solving puzzles and exploring new tech!*  
 
 📫 *Let's Connect:* https://www.linkedin.com/in/s-sahoo | subha_pydev@gmail.com | https://www.behance.net/ssahoo13
 
