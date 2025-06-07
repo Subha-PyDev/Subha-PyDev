@@ -1,4 +1,4 @@
-👋 Hi, I'm Subhashree!*  
+👋 Hi, I'm Subhashree!  
 
 🔹*Python Developer*, *Graphic* and *UI/UX Designer* with a passion for building smart web applications and creating visually appealing, user-friendly designs.
 
